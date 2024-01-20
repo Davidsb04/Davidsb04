@@ -1,6 +1,6 @@
 ### Olá! Eu sou o David Silva 😊
 
-[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/davidsb04)
+[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsb04)
 
 ![Davidsb04 GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidsb04&show_icons=true&theme=radical)
 
